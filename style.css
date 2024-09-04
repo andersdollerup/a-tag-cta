@@ -1,0 +1,41 @@
+
+body{padding: 20px;}
+
+a.cta:link{
+    /* display: inline-block;
+    background-color: black;
+    color:white;
+    padding: 20px; */
+    /* border-radius: 10px;
+    box-shadow: 3px 3px 3px rgb(108, 95, 95); */
+    /* text-decoration: none;
+    border-radius: 50px; */
+
+}
+/* a.cta:visited{
+    color: white;
+}
+
+a.cta:hover {
+    background-color: grey;
+   
+}
+a.cta:active{
+    transform: scale(0.9);
+
+} */
+/* a.cta:hover{
+    background-color: black;
+    color:white;
+    padding: 12px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(108, 95, 95);
+    text-decoration: underline;
+} */
+/* a.cta:active{
+    background-color: black;
+    color:white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px rgb(108, 95, 95);
+} */
